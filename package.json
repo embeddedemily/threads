@@ -1,0 +1,23 @@
+{
+  "name": "threads",
+  "version": "0.0.1",
+  "description": "Forum threads meets group chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embeddedemily/threads.git"
+  },
+  "author": "Emily, Austin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/embeddedemily/threads/issues"
+  },
+  "homepage": "https://github.com/embeddedemily/threads#readme",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
